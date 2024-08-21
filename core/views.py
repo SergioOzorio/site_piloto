@@ -1,5 +1,6 @@
 import logging
 
+
 error_logger = logging.getLogger()
 
 def sendmail(data):
